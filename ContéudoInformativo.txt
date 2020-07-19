@@ -1,0 +1,10 @@
+pegar informaçoes do ar:
+(https://www.youtube.com/watch?v=fj2UHC1LVfw)
+(https://www.youtube.com/watch?v=okP5wnUuHzU)
+(https://www.youtube.com/watch?v=beIFIr1Lu7k)
+(https://www.youtube.com/watch?v=sax7Mcfbj7I) - SACA A PLAYLIST DO "CFBCursos" parece ser muito bom, mas essa aula e para controlar algo com o receptos.
+
+No caso podemos ao inves de por o arduino proximo aos dispositivos, fazer com que ele pega as informações de temperatura de um sensor que fique no meio da sala ao inves dele pegar as informações do sensor do ar, podemos retirar o bip, para ele responder apenas no controle, 
+pois sempre que ele mudar a temperatura o bip acionaria e ficaria um barulho constante e muito irritante. Assim facilitariamos o processo de instalação, porque não precisariamos abrir de inicio o arcodicionado, apenas pegar as informaçoes do infra dele e o sinal do sensor. Digo, pelo menos reduzia o esforço para acessar determidas parte do AR. ver esses video, se concorda, o codigo que voce esta fazendo seria, tipo, ler as informçoes de temperatura da sala em um determinado intervalo e depois envia um sinal para a placa do ar, dizendo se e para aumentar, reduzir ou permanecer com a mesma temperatura;
+
+
