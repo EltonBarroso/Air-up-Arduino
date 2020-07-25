@@ -1,0 +1,13 @@
+Materiais:
+Arduino Uno (Rev3);
+Display para ver a temperatura;
+Controlador de temperatura manual(vai substituir o sensor temporariamente);
+
+A priore vamos focar no desenvolvimento teorioco do projeto e fazer os devidos testes por esta plataforma.
+Observeri que ela e muito interessante so que eu não sei utilizar os componentes que ultilizaremos ainda. então vamos separar por semanas e estabelecer metas.
+
+Sera nescessario vermos como ligar o arduino nesta plataorma.
+
+Baixa ai o "trello"
+
+
