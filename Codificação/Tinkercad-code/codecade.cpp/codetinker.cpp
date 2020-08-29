@@ -15,17 +15,13 @@ int AlertaTempAlta=13;
 // Define temperatura baixa como abaixo de zero grau Celsius
 int TempBaixa=0;
 // Define temperatura alta como acima de 40 graus Celsius
-int TempAlta=;
-
-int led_vermelho=8;
+int TempAlta=40;
 
 void setup() {
 	// Define o pino de alerta de temperatura baixa como saida
   	pinMode(AlertaTempBaixa, OUTPUT);
 	// Define o pino de alerta de temperatura alta como saida
 	pinMode(AlertaTempAlta, OUTPUT);
-    
-    pinMode(8,OUTPUT);
 
 	// Define a quantidade de colunas e linhas do LCD
 	LCD.begin(16,2);
@@ -40,9 +36,7 @@ void setup() {
 void loop() {
 	// Faz a leitura da tensao no Sensor de Temperatura
 	int SensorTempTensao=analogRead(SensorTempPino);
-     
-    digitalWrite(9,HIGH);
-    
+
   	// Converte a tensao lida
 	float Tensao=SensorTempTensao*5;
 	Tensao/=1024;
