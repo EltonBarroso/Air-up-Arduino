@@ -13,9 +13,9 @@ int AlertaTempBaixa=8;
 int AlertaTempAlta=13;
 
 // Define temperatura baixa como abaixo de zero grau Celsius
-int TempBaixa=0;
+int TempBaixa=20;
 // Define temperatura alta como acima de 40 graus Celsius
-int TempAlta=40;
+int TempAlta=32;
 
 void setup() {
 	// Define o pino de alerta de temperatura baixa como saida
