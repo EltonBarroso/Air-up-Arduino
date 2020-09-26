@@ -13,4 +13,4 @@
 >Elaborar um circuito que tenha a intenção de regular a temperatura do ambiente, sendo aplicado a ar condicionado antigo. Utilizando o Arduino
 ---
 ### 💻 **Desenvolvimento** 💻
->Já temos um Protótico que Emula o conceito do projeto, e que podeser visto e simulado acessando o [**Tinkercad**](https://www.tinkercad.com/things/0LmkAjB7eg7-eco-air-prototipo-3)
+>Já temos um Protótico que Emula o conceito do projeto, e que pode ser visto e simulado acessando o [**Tinkercad**](https://www.tinkercad.com/things/0LmkAjB7eg7-eco-air-prototipo-3)
